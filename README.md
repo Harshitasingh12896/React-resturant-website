@@ -1,0 +1,2 @@
+This is a responsive resturant-website by using react js with ui/ux design.
+Building a responsive food delivery app with React.js and great UI design leads to better performance, scalability, and a fantastic user experience. The flexibility, speed, and ease of development offered by React make it a powerful tool for developers, while users benefit from a visually appealing, intuitive, and responsive app that works flawlessly across devices.
